@@ -11,12 +11,16 @@
 ##  자기소개
 *유한대학교 컴퓨터공학과 게임콘텐츠전공🌷*
 
+*202627008 김연주*
+
 <p>
 
   <img src="https://img.shields.io/badge/Python-CDB4DB?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
-💌 `oj5946@naver.com`
+💌 `oj5846@naver.com`
 </div>
+
+
 
 
